@@ -35,3 +35,5 @@ Tools Used
 Microsoft Excel: For financial modeling and calculations.
 
 Power BI: For data visualization and dashboard creation.
+
+Based on a public fork; rebuilt, renamed, and customized for portfolio learning.
