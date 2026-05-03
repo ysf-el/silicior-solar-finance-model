@@ -1,39 +1,28 @@
-Project Finance Model & Investment Proposal: 10 MW Solar Farm
-This repository contains a complete financial analysis for a hypothetical 10 MW solar farm project in Rajasthan, India. The project was developed as a portfolio piece to demonstrate skills in financial modeling, data analysis, and investment evaluation.
+# Silicior — Solar Finance Model
 
-Project Components
-This project consists of three core components:
+Project-finance model for a hypothetical 10 MW solar farm in Abu Dhabi, UAE, built to evaluate project cost, debt capacity, cash flows, investor returns, and downside risk.
 
-Excel Financial Model (Solar Project Finance Model.xlsx): A comprehensive 25-year financial model built from scratch. It includes a full debt schedule, accelerated depreciation, 3-statement financials, and calculation of key return metrics like Equity IRR and NPV.
+## Files
 
-Power BI Dashboard (Solar Project Dashboard.pbix): An interactive one-page dashboard designed to provide an at-a-glance overview of the project's financial health. It visualizes key performance indicators, cash flows, and operational profitability over the project's lifetime.
+- `silicior-solar-finance-model.xlsx` — Excel financial model
+- `silicior-investment-memo.docx` — investment memo
+- `dashboard.pbix` — Power BI dashboard
+- `dashboard preview (beta test).pdf` — dashboard preview
 
-Investment Memorandum (Investment Memorandum.pdf): A professional investment proposal that synthesizes the financial analysis into a compelling business case. It outlines the project's viability, financial projections, and risk analysis, making a clear recommendation for equity investment.
+## What I Built
 
-Dashboard Preview
-Note: The Power BI file (.pbix) requires Power BI Desktop to be viewed. A screenshot of the final dashboard is included below for easy viewing.
+- Built a 25-year solar finance model with AED assumptions, capex, revenue, operating costs, depreciation, debt schedule, cash flows, NPV, Equity IRR, and payback period.
+- Tested downside cases for tariff changes, production loss, operating cost increases, financing cost changes, and debt-service coverage risk.
+- Created a Power BI dashboard and investment memo summarizing project economics, key assumptions, risk areas, and investment view.
 
+## Skills Shown
 
-Key Financial Metrics
-Metric
+Financial modeling, project finance, Excel, Power BI, debt schedule, cash-flow analysis, NPV, IRR, DSCR, investment memo writing, downside-case analysis.
 
-Value
+## LinkedIn Bullet
 
-Equity IRR
+Built 25-year solar project-finance model for a 10 MW Abu Dhabi asset with AED assumptions, debt schedule, depreciation, cash flows, NPV, Equity IRR, payback period, Power BI dashboard, and investment memo.
 
-37.75%
-
-Net Present Value (NPV)
-
-₹34.8 Crore
-
-Payback Period
-
-2 Years
-
-Tools Used
-Microsoft Excel: For financial modeling and calculations.
-
-Power BI: For data visualization and dashboard creation.
+## Credit
 
 Based on a public fork; rebuilt, renamed, and customized for portfolio learning.
